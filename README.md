@@ -6,21 +6,21 @@ I am a Computer Science student passionate about turning data into meaningful in
 ---
 
 ## 🔍 About Me
-- 📊 Aspiring Data Analyst & Business Intelligence Enthusiast  
+- 📊 Aspiring Data Analyst  
 - 💻 Strong in SQL, Python, Excel, Power BI  
 - 📈 Interested in Data Cleaning, EDA, Dashboards & Insights  
-- 🚀 Actively building projects for real-world use cases  
+- 🚀 Actively building end-to-end Projects  
 
 ---
 
 ## 🛠️ Skills & Tools
 
 **Languages & Tools:**  
-- SQL (MySQL, SQL Server)  
+- SQL (MySQL)  
 - Python (Pandas, NumPy, Matplotlib, Seaborn)  
 - Power BI & Excel  
 - Jupyter Notebook  
-- Git & GitHub  
+- GitHub  
 
 ---
 
@@ -42,16 +42,10 @@ I am a Computer Science student passionate about turning data into meaningful in
 
 ---
 
-## 📊 GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=default)
-
----
-
 ## 🤝 Let's Connect
 
-- 💼 LinkedIn: https://linkedin.com/in/YOUR_LINK  
-- 📧 Email: your.email@example.com  
+- 💼 LinkedIn: https://www.linkedin.com/in/sushree-aeiswariya-panigrahi-7b8ba022b/  
+- 📧 Email: aeiswariyapanigrahi@gmail.com  
 
 ---
 
