@@ -1,20 +1,58 @@
-<h1 align="center">Hi 👋, I'm Aeiswariya Panigrahi</h1>
-<h3 align="center">A aspiring Data Analyst</h3>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=aeiswariya&label=Profile%20views&color=0e75b6&style=flat" alt="aeiswariya" /> </p>
+# Hi 👋, I'm Aeiswariya Panigrahi  
+🎯 Aspiring Data Analyst | SQL | Python | Power BI | Excel  
 
-- 📫 How to reach me **aeiswariyapanigrahi@gmail.com**
+I am a Computer Science student passionate about turning data into meaningful insights. I enjoy working on real-world datasets, building dashboards, and solving business problems using data.
 
-- ⚡ Fun fact **I think i am funny**
+---
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/aeiswariya panigrahi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="aeiswariya panigrahi" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/aeiswariya panigrahi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="aeiswariya panigrahi" height="30" width="40" /></a>
-</p>
+## 🔍 About Me
+- 📊 Aspiring Data Analyst & Business Intelligence Enthusiast  
+- 💻 Strong in SQL, Python, Excel, Power BI  
+- 📈 Interested in Data Cleaning, EDA, Dashboards & Insights  
+- 🚀 Actively building projects for real-world use cases  
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://opencv.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
+---
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=aeiswariya&show_icons=true&locale=en&layout=compact" alt="aeiswariya" /></p>
+## 🛠️ Skills & Tools
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=aeiswariya&show_icons=true&locale=en" alt="aeiswariya" /></p>
+**Languages & Tools:**  
+- SQL (MySQL, SQL Server)  
+- Python (Pandas, NumPy, Matplotlib, Seaborn)  
+- Power BI & Excel  
+- Jupyter Notebook  
+- Git & GitHub  
+
+---
+
+## 📂 Projects
+
+🔹 **Global Air Quality Analysis**  
+- Analyzed PM2.5, PM10 & AQI trends using SQL & Power BI  
+- Built dashboards for city-wise & time-based analysis  
+
+🔹 **HR Attrition Analysis**  
+- Used Python & Power BI to identify attrition patterns  
+- Created KPIs and actionable business insights  
+
+🔹 **Sales & Revenue Dashboard**  
+- Cleaned data using SQL  
+- Built interactive Power BI dashboards  
+
+👉 More projects available in my repositories ⬇️  
+
+---
+
+## 📊 GitHub Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=default)
+
+---
+
+## 🤝 Let's Connect
+
+- 💼 LinkedIn: https://linkedin.com/in/YOUR_LINK  
+- 📧 Email: your.email@example.com  
+
+---
+
+⭐ *Feel free to explore my projects and connect with me!*
